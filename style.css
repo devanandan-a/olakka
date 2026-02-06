@@ -58,14 +58,14 @@
       border-radius: 30px;
       font-size: 14px;
       cursor: pointer;
-      background: #ffdd57;
-      color: #333;
+      background:#e59335;
+      color: #f11919;
       transition: transform 0.2s, box-shadow 0.2s;
     }
 
     button:hover {
       transform: scale(1.05);
-      box-shadow: 0 8px 20px rgba(255, 221, 87, 0.4);
+      box-shadow: 0 8px 20px rgba(30, 92, 43, 0.4);
     }
 
     footer {
